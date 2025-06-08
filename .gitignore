@@ -1,0 +1,6 @@
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+
+# Ignore common data output directories
+spark-etl/output/
